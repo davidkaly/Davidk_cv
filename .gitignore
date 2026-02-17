@@ -1,0 +1,15 @@
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Node.js (if used later)
+node_modules/
+dist/
+build/
